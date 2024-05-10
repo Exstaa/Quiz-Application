@@ -1,5 +1,5 @@
 ## Quiz Application
-## This is a simple quiz application built using Java Spring framework. It allows users to create, edit, delete questions, and also provides an API to retrieve questions.
+This is a simple quiz application built using Java Spring framework. It allows users to create, edit, delete questions, and also provides an API to retrieve questions.
 
 ## Features
 Add Question: Users can add new questions to the quiz database.
